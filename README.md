@@ -1,14 +1,6 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header&text=Bem-vindo!&fontSize=50&fontAlignY=35&animation=fadeIn&fontColor=ffffff" />
-</div>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=30&duration=3000&pause=1500&color=00F791&background=FFFFFF00&width=1200&lines=Ol%C3%A1%2C+seja+bem-vindo!%F0%9F%91%8B;Meu+nome+%C3%A9+Guilherme+Anjolette...;Sou+Desenvolvedor+Full+Stack...;E+esse+%C3%A9+o+meu+GitHub...;Aqui+voc%C3%AA+vai+encontrar+alguns+projetos+que+estou+estudando...;Fique+a+vontade+para+explorar+os+reposit%C3%B3rios...;At%C3%A9+mais.)](https://git.io/typing-svg)
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Olá!+👋;Sou+Guilherme+Anjolette;Desenvolvedor+Full+Stack&center=true&size=30">
-</div>
-
----
-
-## <div align="center">👨‍💻 Sobre mim</div>
+## <div align="left">👨‍💻 Sobre mim</div>
 
 Estudante de Engenharia de Software apaixonado por desenvolvimento web e tecnologias inovadoras. Atualmente, estou explorando o mundo do Full Stack, criando aplicações web dinâmicas e escaláveis. Busco constantemente aprimorar minhas habilidades e contribuir para projetos desafiadores.
 
@@ -18,9 +10,9 @@ Estudante de Engenharia de Software apaixonado por desenvolvimento web e tecnolo
 - 🛠️ Técnico em Desenvolvimento de Sistemas  
 
 
-## <div align="center">🛠️ Linguagens e Tecnologias</div>
+## <div align="left">🛠️ Linguagens e Tecnologias</div>
 
-<div align="center">
+<div align="left">
   <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" height="40"/></code>
   <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40"/></code>
   <code><img src="https://cdn.simpleicons.org/node.js/339933" height="40" width="40"/></code>
@@ -31,26 +23,23 @@ Estudante de Engenharia de Software apaixonado por desenvolvimento web e tecnolo
   <code><img src="https://cdn.simpleicons.org/css3/1572B6" height="40" width="40"/></code>
 </div>
 
-## <div align="center">📊 Estatísticas</div>
+## <div align="left">📊 Estatísticas</div>
 
-<div align="center">
+<div align="left">
   
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Guilherme-S222&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Guilherme-S222&layout=compact&theme=radical)
 
 </div>
 
-## <div align="center">📬 Contatos</div>
+## <div align="left">📬 Contatos</div>
 
-<div align="center">
+<div align="left">
   <a href="https://www.linkedin.com/in/guilherme-anjolette-522320249/">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40" alt="LinkedIn"/>
   </a>
+  <br>
   <a href="mailto:anjolettegui@gmail.com">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="40" height="40" alt="Gmail"/>
   </a>
-</div>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
 </div>
