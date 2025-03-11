@@ -1,22 +1,56 @@
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header&text=Bem-vindo!&fontSize=50&fontAlignY=35&animation=fadeIn&fontColor=ffffff" />
+</div>
 
-# Hi there! 👋
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Olá!+👋;Sou+Guilherme+Anjolette;Desenvolvedor+Full+Stack&center=true&size=30">
+</div>
 
-My name is Guilherme Anjolette.
+---
 
-## About me
-* 📚 Student
-* 👨‍💻 Full Stack Developer
-* ❤️ Web Development
-* 👨‍🎓 Systems Development Technician
+## <div align="center">👨‍💻 Sobre mim</div>
 
-## Main Languages ​​and Technologies
-* ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-* ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-* ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-* ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+Estudante de Engenharia de Software apaixonado por desenvolvimento web e tecnologias inovadoras. Atualmente, estou explorando o mundo do Full Stack, criando aplicações web dinâmicas e escaláveis. Busco constantemente aprimorar minhas habilidades e contribuir para projetos desafiadores.
 
-## Contact Information
-* [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-anjolette-522320249/)
-* [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anjolettegui@gmail.com)
+- 🎓 Estudante de Engenharia de Software  
+- 💻 Desenvolvedor Full Stack  
+- ❤️ Desenvolvimento Web  
+- 🛠️ Técnico em Desenvolvimento de Sistemas  
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Guilherme-S222&show_icons=true&theme=radical)
+
+## <div align="center">🛠️ Linguagens e Tecnologias</div>
+
+<div align="center">
+  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" height="40"/></code>
+  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40"/></code>
+  <code><img src="https://cdn.simpleicons.org/node.js/339933" height="40" width="40"/></code>
+  <code><img src="https://cdn.simpleicons.org/typescript/007ACC" height="40" width="40"/></code>
+  <code><img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="40" width="40"/></code>
+  <code><img src="https://cdn.simpleicons.org/react/61DAFB" height="40" width="40"/></code>
+  <code><img src="https://cdn.simpleicons.org/html5/E34F26" height="40" width="40"/></code>
+  <code><img src="https://cdn.simpleicons.org/css3/1572B6" height="40" width="40"/></code>
+</div>
+
+## <div align="center">📊 Estatísticas</div>
+
+<div align="center">
+  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Guilherme-S222&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Guilherme-S222&layout=compact&theme=radical)
+
+</div>
+
+## <div align="center">📬 Contatos</div>
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/guilherme-anjolette-522320249/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:anjolettegui@gmail.com">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="40" height="40" alt="Gmail"/>
+  </a>
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
+</div>
