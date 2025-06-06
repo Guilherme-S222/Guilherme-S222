@@ -13,8 +13,10 @@ Estudante de Engenharia de Software apaixonado por desenvolvimento web e tecnolo
 ## <div align="left">🛠️ Linguagens e Tecnologias</div>
 
 <div align="left">
-  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" height="40"/></code>
-  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40"/></code>
+  <code><img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" width="40" height="40"/></code>
+  <code><img src="https://cdn.simpleicons.org/dotnet/512BD4" height="40" width="40"/></code>
+  <code><img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" width="40" height="40"/></code>
+  <code><img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/></code>
   <code><img src="https://cdn.simpleicons.org/node.js/339933" height="40" width="40"/></code>
   <code><img src="https://cdn.simpleicons.org/typescript/007ACC" height="40" width="40"/></code>
   <code><img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="40" width="40"/></code>
